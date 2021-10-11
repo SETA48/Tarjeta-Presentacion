@@ -1,0 +1,55 @@
+h1 {
+    left: 284px;
+    position: relative;
+}
+h4 {font-style: oblique;color: cadetblue;text-decoration: underline;}
+
+h4 {
+    font-style: oblique;
+    color: cadetblue;
+    text-decoration: underline;
+    top: 207px;
+    position: relative;
+    left: 327px;
+}
+
+img#fondo {
+    height: 205px;
+}
+
+h5 {
+    top: 197px;
+    position: relative;
+    left: 333px;
+    color: wheat;
+}
+
+
+img#fotografia {
+    height: 134px;
+    border-radius: 82px;
+    left: -456px;
+    position: relative;
+    top: -37px;
+}
+
+div#tarjeta {
+    left: 256px;
+    position: fixed;
+}
+
+img#telefono {
+    height: 24px;
+    position: relative;
+    left: -368px;
+    top: -65px;
+    border-radius: 24px;
+}
+
+img#logoinsta {
+    height: 26px;
+    left: -336px;
+    position: relative;
+    top: -25px;
+    border-radius: 17px;
+}
